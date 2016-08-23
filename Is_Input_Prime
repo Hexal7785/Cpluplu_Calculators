@@ -7,6 +7,9 @@ int main()
 int num;
 int x;
 bool prime;
+
+cout <<  "welcome to the prime number finder a l'etal! woop!" << endl;
+
 cout << "Enter a number to see if it's a prime:  ";
 cin >> num;
 
